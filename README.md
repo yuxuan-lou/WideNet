@@ -1,0 +1,2 @@
+# WideNet
+Implementation of WideNet
