@@ -1,0 +1,10 @@
+colossalai
+torch>=1.8
+torchvision>=0.9
+numpy
+tqdm
+psutil
+tensorboard
+packaging
+pre-commit
+nvidia-dali-cuda110
